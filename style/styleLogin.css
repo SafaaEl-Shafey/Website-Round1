@@ -1,0 +1,132 @@
+.body{
+	background-color: #ccd9ff;
+}
+
+.font{
+	font-family: "Norican";
+}
+
+.parent{
+	width: 80vw;
+	height:80vh;
+	background-image: url('../images/rwb.jpg');
+	background-size: contain;
+  	box-shadow: 8px 8px 5px #444;
+}
+
+.logo{
+	width: 100px;
+	height: 100px;	
+	border-radius: 50px 50px 50px 50px;
+	border:2px solid #003366;
+}
+
+.backgroundImage{
+	position: absolute;
+	width: 1200px;
+	height: 500px;	
+}
+
+.title{
+ color:#003366;
+ text-align: center;
+ font-size: 40px;
+ position: absolute;
+ left:160px;
+}
+
+.label{
+ color:#003366;
+ font-size: 18px;
+ font-weight: bolder;
+}
+
+.emailLabel{
+	position: absolute;
+	left: 17px;
+	top:110px;
+}
+
+.passwordLabel{
+	position: absolute;
+	left: 10px;
+	top:160px;
+}
+
+.checkbox{
+	position: absolute;
+	bottom: 150px;
+	left:120px;
+	column-width: 10px;
+	transform: scale(1.5);
+}
+
+.signUp{
+ color:white;
+ font-weight: bolder;
+}
+
+.remember{
+ color:#6600cc;
+ font-weight: bolder;
+	position: absolute;
+	bottom: 150px;
+	left:150px;
+}
+
+.newHere{
+	color:#ccd9ff;
+}
+.forgetPassword{
+ 	color:#007acc;
+	position: absolute;
+	bottom: 120px;
+	left:120px;
+	font-weight: bolder;
+}
+
+.emailInput{
+	position: absolute;
+	left:110px;
+	top: 100px;
+}
+
+.passwordInput{
+	position: absolute;
+	left:110px;
+	top: 150px;
+}
+
+.input{
+ text-align: left;
+ color:#003366;
+ font-size:15px;
+ height:30px;
+ width:200px;
+ border: 1px solid #cc0066;
+ border-radius:10px 10px 10px;
+}
+
+.submit{
+	color:white;
+	position: absolute;
+	bottom: 50px;
+	left:100px;
+	font-size: 18px;
+	border: 1px solid #003366;
+	text-align: center;
+	background-color: #003366;
+}
+
+
+.formStyle{
+	background-color: #e6e6ff;
+	opacity: 70%;
+	position: relative;
+	width: 400px;
+	height: 400px;
+ 	border: 2px solid #003366;
+ 	border-radius:70px 70px 70px;
+}
+
+
